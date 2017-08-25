@@ -1,0 +1,2 @@
+A project for COSC262 containing 3 different algorithms (gift wrap, graham scan, quick hull) for finding the convex hull of a set of points.
+Configured to run the three algorithms on the first 1000 data points from Set_A.dat

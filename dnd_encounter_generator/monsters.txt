@@ -1,0 +1,53 @@
+Anhkheg	|	rare	3	0	1	6	1	0	1	0	0	0
+Ant, Giant	|	rare	2	0	1	10	1	0	1	0	0	0
+Badger, Common	|	uncommon	1	2	2	5	1	1	1	1	0	0
+Badger, Giant	|	veryrare	3	2	2	5	1	1	1	1	0	0
+Bear, Black	|	common	3	3	1	3	1	1	1	1	0	0
+Bear, Brown	|	uncommon	5	5	1	6	0	1	1	1	0	0
+Bear, Cave	|	uncommon	6	6	1	2	0	1	1	1	0	0
+Beaver, Giant	|	veryrare	4	0	1	1	0	0	0	1	1	0
+Beetle, Bombardier	|	common	2	2	3	12	0	0	1	0	0	0
+Beetle, Boring	|	uncommon	5	0	1	6	1	0	1	0	0	0
+Beetle, Fire	|	common	1	2	3	12	1	1	1	1	0	0
+Beetle, Stag	|	veryrare	7	0	1	3	0	0	1	1	0	0
+Boar, Giant	|	rare	7	3	2	5	0	1	1	1	0	0
+Boar, Wild	|	common	3	3	1	6	1	1	1	1	0	0
+Bugbear	|	rare	3	1	1	4	0	1	1	1	0	0
+Centipede	|	common	;2	0	2	24	1	0	1	0	0	0
+Crab, Giant	|	rare	3	0	2	12	0	0	1	0	1	0
+Crayfish, Giant	|	uncommon	4	4	1	4	1	0	1	0	1	0
+Displacer Beast	|	veryrare	6	0	2	5	0	0	1	1	0	0
+Dryad	|	veryrare	2	0	1	6	0	0	0	1	0	1
+Frog, Giant	|	rare	3	0	1	4	0	1	0	1	1	0
+Frog, Huge	|	uncommon	2	0	1	8	0	1	0	1	1	0
+Frog, Large	|	common	1	0	2	16	0	1	0	1	1	0
+Gnoll	|	uncommon	2	0	2	8	0	1	1	1	0	0
+Goat, Giant	|	rare	3	1	1	12	0	0	1	0	0	0
+Goblin	|	uncommon	;7	0	2	16	1	1	1	1	0	0
+Hobgoblin	|	uncommon	1	1	2	10	1	1	1	1	0	0
+Human, Bandit	|	common	;6	0	1	10	1	1	0	0	0	1
+Human, Berserker	|	rare	;7	0	1	5	1	1	1	1	0	1
+Human, Pirate	|	rare	;6	0	1	4	0	0	1	0	1	1
+Human, Ranger	|	uncommon	1	0	1	2	1	1	1	1	0	1
+Lamprey, Giant	|	rare	5	0	1	4	0	0	1	0	1	0
+Lamprey, Normal	|	uncommon	1	2	1	2	1	0	1	0	1	0
+Leucrotta	|	rare	6	1	1	4	0	0	1	1	0	0
+Ogre	|	common	4	1	1	5	0	0	1	1	0	0
+Orc	|	common	1	0	2	10	1	1	1	1	0	0
+Owlbear	|	rare	5	2	2	5	0	0	1	1	0	0
+Pseudo-Dragon	|	veryrare	2	0	1	1	0	0	1	0	0	1
+Ram, Giant	|	rare	4	0	2	8	1	0	1	0	0	0
+Shrieker	|	common	3	0	2	8	1	1	1	1	0	0
+Spider, Giant	|	rare	4	4	1	8	0	0	1	1	0	0
+Spider, Huge	|	uncommon	2	2	1	12	0	1	1	1	0	0
+Spider, Large	|	common	1	1	2	20	0	1	1	1	0	0
+Stag, Common	|	common	3	0	1	4	1	1	1	1	0	0
+Stag, Giant	|	rare	5	0	1	2	0	0	1	1	0	0
+Toad, Giant	|	common	2	4	1	12	0	1	0	1	0	0
+Troll	|	uncommon	6	6	1	3	0	0	1	1	0	0
+Weasel, Giant	|	rare	3	3	1	3	0	0	0	1	0	0
+Wolf, Common	|	common	2	2	2	16	1	1	1	1	0	0
+Wolf, Dire	|	uncommon	3	3	2	9	0	0	1	1	0	0
+Wolverine, Common	|	uncommon	3	0	1	1	1	1	1	1	0	0
+Wolverine, Giant	|	rare	4	4	1	1	1	1	1	1	0	0
+Worg	|	rare	4	4	3	8	0	0	1	1	0	0
