@@ -7,7 +7,7 @@ that will work on a dual monitor setup. Also sets the background to this newly c
 sleepy.pyw
 A program that will run bg36.pyw every 10 minutes (by default, can be changed in sysinfo.ini).
 
-ranks.ini
+ranks.ini (automatically generated)
 Contains weightings for the different folders in the background directory path. Entries for newly found folders are automatically added when bg36.pyw is run, and entries for
 folders that no longer exist are removed. Folders with a higher weighting will have a higher chance of being selected.
 
