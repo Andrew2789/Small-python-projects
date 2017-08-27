@@ -16,7 +16,7 @@ def random_weighted(dictionary):
 def scale_image(image, x, y):
     '''Scale an image to fit new x and y dimensions without distortion (edges will be cropped if new dimensions are at a different aspect ratio).'''
     aspect_ratio = image.size[0] / image.size[1]
-    if int(x / aspect_ratio) < y:
+    if int(image.size[0]/ aspect_ratio) <= image.size[1]:
         return image.resize((x, int(x / aspect_ratio)), Image.ANTIALIAS)
     else:
         return image.resize((int(y * aspect_ratio), y), Image.ANTIALIAS)
